@@ -1,4 +1,4 @@
-# Login With OTP in Flutter
+# Login With Email OTP in Flutter
 An application for testing <br />
 ![camera](https://github.com/hadihmh/images/blob/main/myloginapp.gif)<br />
 
